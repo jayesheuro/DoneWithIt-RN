@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Here's where you can sell goods you dont need anymore. The good you're done with."
   }
 }
